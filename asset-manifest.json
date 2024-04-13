@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/newsApp/static/js/main.0af07159.js",
+    "static/js/453.b2157c12.chunk.js": "/newsApp/static/js/453.b2157c12.chunk.js",
+    "index.html": "/newsApp/index.html",
+    "main.0af07159.js.map": "/newsApp/static/js/main.0af07159.js.map",
+    "453.b2157c12.chunk.js.map": "/newsApp/static/js/453.b2157c12.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.0af07159.js"
+  ]
+}
